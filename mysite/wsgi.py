@@ -17,7 +17,7 @@
 import os
 import sys
 
-path = '/home/rai-dietra4/my-first-blog'  # use your own username here
+path = '/home/rai4dietra/my-first-blog'  # use your own username here
 if path not in sys.path:
     sys.path.append(path)
 
